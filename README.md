@@ -1,4 +1,4 @@
-# brian_txtRead
+# MyTxtRead
 ---
 
 **# 功能說明**      
